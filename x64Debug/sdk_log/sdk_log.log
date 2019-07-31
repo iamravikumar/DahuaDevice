@@ -1,0 +1,50 @@
+Begin Time:2019-07-31 11:28:19.594
+[2019-07-31 11:28:19.595][P:6636/T:3628][Utils.cpp:4792][Info][0] mutil NIC client
+[2019-07-31 11:28:24.771][P:6636/T:3628][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000000025400000
+
+[2019-07-31 11:28:24.846][P:6636/T:3628][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2019-07-31 11:28:36.465][P:6636/T:3628][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=182.93.82.128, port=4370, SpeCap=0, lpDeviceInfo=00000000007FE0C0.]
+[2019-07-31 11:28:38.387][P:6636/T:3628][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:182.93.82.128
+[2019-07-31 11:28:38.387][P:6636/T:3628][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-07-31 11:28:38.387][P:6636/T:3628][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-07-31 11:28:38.393][P:6636/T:3628][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-07-31 11:28:38.395][P:6636/T:3628][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:182.93.82.128, port:4370, specCap:0!
+[2019-07-31 11:28:38.395][P:6636/T:3628][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-07-31 11:28:38.410][P:6636/T:3628][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-07-31 11:28:38.411][P:6636/T:3628][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-07-31 11:28:50.047][P:6636/T:3628][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=182.93.82.128, port=4370, SpeCap=0, lpDeviceInfo=00000000007FE0C0.]
+[2019-07-31 11:28:51.547][P:6636/T:3628][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:182.93.82.128
+[2019-07-31 11:28:51.547][P:6636/T:3628][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-07-31 11:28:51.547][P:6636/T:3628][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-07-31 11:28:51.547][P:6636/T:3628][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-07-31 11:28:51.547][P:6636/T:3628][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:182.93.82.128, port:4370, specCap:0!
+[2019-07-31 11:28:51.547][P:6636/T:3628][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-07-31 11:28:51.547][P:6636/T:3628][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-07-31 11:28:51.547][P:6636/T:3628][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-07-31 11:29:20.474][P:6636/T:3628][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=182.93.82.128, port=4370, SpeCap=0, lpDeviceInfo=00000000007FE0C0.]
+[2019-07-31 11:29:21.975][P:6636/T:3628][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:182.93.82.128
+[2019-07-31 11:29:21.975][P:6636/T:3628][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-07-31 11:29:21.975][P:6636/T:3628][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-07-31 11:29:21.975][P:6636/T:3628][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-07-31 11:29:21.975][P:6636/T:3628][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:182.93.82.128, port:4370, specCap:0!
+[2019-07-31 11:29:21.975][P:6636/T:3628][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-07-31 11:29:21.975][P:6636/T:3628][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-07-31 11:29:21.975][P:6636/T:3628][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-07-31 11:29:33.582][P:6636/T:3628][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=182.93.82.128, port=4370, SpeCap=0, lpDeviceInfo=00000000007FE0C0.]
+[2019-07-31 11:29:35.082][P:6636/T:3628][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:182.93.82.128
+[2019-07-31 11:29:35.082][P:6636/T:3628][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-07-31 11:29:35.082][P:6636/T:3628][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-07-31 11:29:35.082][P:6636/T:3628][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-07-31 11:29:35.082][P:6636/T:3628][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:182.93.82.128, port:4370, specCap:0!
+[2019-07-31 11:29:35.082][P:6636/T:3628][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-07-31 11:29:35.082][P:6636/T:3628][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-07-31 11:29:35.082][P:6636/T:3628][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2019-07-31 11:29:43.548][P:6636/T:3628][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=182.93.82.128, port=4370, SpeCap=0, lpDeviceInfo=00000000007FE0C0.]
+[2019-07-31 11:29:45.048][P:6636/T:3628][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:182.93.82.128
+[2019-07-31 11:29:45.048][P:6636/T:3628][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2019-07-31 11:29:45.048][P:6636/T:3628][Manager.cpp:7549][Error][90010002] device is NULL
+[2019-07-31 11:29:45.048][P:6636/T:3628][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2019-07-31 11:29:45.048][P:6636/T:3628][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:182.93.82.128, port:4370, specCap:0!
+[2019-07-31 11:29:45.048][P:6636/T:3628][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2019-07-31 11:29:45.048][P:6636/T:3628][dhnetsdk.cpp:6505][Info][0] Enter CLIENT_GetLastError.
+[2019-07-31 11:29:45.048][P:6636/T:3628][dhnetsdk.cpp:6508][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
